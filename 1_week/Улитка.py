@@ -1,0 +1,5 @@
+H = int(input())
+A = int(input())
+#B = int(input())
+#в день (А-Б)
+print(H // A)
